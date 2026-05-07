@@ -39,7 +39,8 @@ This project was developed collaboratively as part of academic research work. Ea
 ---
 
 ## Current Status
-✅ Research Paper Published
+✅ Research Paper Submitted 
+" IEEE Chandigarh Subsection International Conference : Submission (1591) has been created. "
 
 ---
 
